@@ -13,5 +13,5 @@ $ git clone git@github.com:pou1/hello-world.git
 $ git commit <fileName> -m "<message for this commit>"
 $ git commit README.MD -m "update in local"
 
-# push to remote
-$ git push -u origin mater:newupdate
+# push to remote 
+$ git push -u origin master:newupdate
