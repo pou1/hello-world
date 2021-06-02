@@ -1,6 +1,7 @@
 max=24
 min=18.5
 owner='Pai'
+addB1='B1 bra'
 def bmi(w,h):
     return w/h**2
 
