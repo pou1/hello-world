@@ -18,3 +18,5 @@ $ git push -u origin master:newupdate
 
 # test GitLens VS extension
 
+#This is in B2 branch
+
